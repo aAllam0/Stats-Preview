@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-card-using-css-flex-KPB_4l5Ya_)
+- Live Site URL: (https://aallam0.github.io/Stats-Preview)
 
 ### Useful resources
 
