@@ -1,4 +1,4 @@
-# Frontend Mentor - Page name
+# Frontend Mentor - Stats Preview Page
 
 ![](images/stats-preview.png)
 
